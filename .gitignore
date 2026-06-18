@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.local
+apps/api/.env
+apps/api/.venv/
+apps/api/data/
+apps/web/.next/
+apps/web/node_modules/
+__pycache__/
+.pytest_cache/
+
